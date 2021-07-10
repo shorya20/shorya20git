@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shorya20. I'm a freshman CS Bachelors student at QMUL. I love coding, ML, working with teams and exploring and devising innovative projects. Feel free to contact me.
+- 👋 Hi, I’m @shorya20. I'm a freshman CS Bachelors student at QMUL. I love coding, ML, and seek to work with teams and commit myself to bigger challenges. 
 
 <!---
 shorya20/shorya20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
